@@ -4,7 +4,6 @@
 # Created on: Oct 2022
 # This program adds two numbers
 
-
 def main():
     # this function calculates the cost of making a pizza
 
